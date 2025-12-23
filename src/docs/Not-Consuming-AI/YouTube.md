@@ -18,6 +18,6 @@ You've likely been asked to "like and subscribe" when watching videos on YouTube
 
 When someone uploads a video, they can mark it as including [Altered Content](https://blog.youtube/news-and-events/disclosing-ai-generated-content/). This is essentially useless for the following reasons:
 
-* It only applies if "...content is altered or synthetic and seems real". So shrimp Jesus, or other obviously fake content probably wouldn't need to be flagged.
+* It only applies if "...content is altered or synthetic and seems real." So shrimp Jesus, or other obviously fake content probably wouldn't need to be flagged.
 * There isn't any way to filter out videos marked in this way. The only indication is a [label added to the video's description](https://support.google.com/youtube/answer/14328491?hl=en#after_disclose).
 * The person that uploads a video has to voluntarily select the checkbox.  

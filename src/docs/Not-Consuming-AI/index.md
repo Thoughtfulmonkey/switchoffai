@@ -6,6 +6,6 @@ The following are some general guidelines on how to avoid consuming AI.
 
 ## Searching before 2023
 
-Generative AI content began to emerge around 2022 to 2023. If you use a search that includes a date filter, you can restrict the search to before 2023 to filter out almost all of the correctly classified AI content.
+Generative AI content began to emerge around 2022 to 2023. If you use a search that includes a date filter, you can restrict the search to before 2023 to filter out almost all the correctly classified AI content.
 
 This is a drastic option, because you'll exclude all of the latest information. However, if the thing you're searching for existed before 2023, you might still find the result you need.

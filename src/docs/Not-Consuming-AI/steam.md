@@ -1,6 +1,6 @@
 # Steam
 
-The game markeplace and distribution platform used by both indie developers and large publishers.
+The game marketplace and distribution platform used by both indie developers and large publishers.
 
 ## Using SteamDB to avoid AI
 

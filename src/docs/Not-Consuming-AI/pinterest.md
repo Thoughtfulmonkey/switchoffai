@@ -7,7 +7,7 @@ A social media site where you create collections of images, videos, websites, an
 Follow these steps to see less generative AI recommendations:
 
 1. Go to [https://pinterest.com/edit/gen-ai-interests](https://pinterest.com/edit/gen-ai-interests).
-2. Turn off all of the categories for which you don't want to see generative AI recommendations.
+2. Turn off all the categories for which you don't want to see generative AI recommendations.
 
 If you can't use the previous steps to go directly to the GenAI interests page, complete the following steps instead:
 
@@ -16,6 +16,6 @@ If you can't use the previous steps to go directly to the GenAI interests page, 
 3. Select **Settings** from the menu that appears.
 4. Select **Refine your recommendations**.
 5. Select the **GenAI interests** tab.
-6. Turn off all of the categories for which you don't want to see generative AI recommendations.
+6. Turn off all the categories for which you don't want to see generative AI recommendations.
 
 For more information, refer to [Refine your recommendations](https://help.pinterest.com/en-gb/article/tune-your-home-feed) in the Pinterest Help Centre.
