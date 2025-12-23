@@ -1,3 +1,6 @@
 site_name: Switch Off AI
 site_description: How to avoid consuming and feeding AI
 theme: readthedocs
+
+markdown_extensions:
+  - sane_lists
