@@ -6,7 +6,7 @@ The video streaming site owned by Google. The site provides a variety of [AI too
 
 You can use the standard strategy of searching for videos that were uploaded before generative AI was widely used.
 
-* When you perform a search, include *before:2023-01-01* in the search field.
+* When you perform a search, include `before:2023-01-01` in the search field.
 
 
 ## Subscribing

@@ -4,3 +4,7 @@ theme: readthedocs
 
 markdown_extensions:
   - sane_lists
+  - admonition
+
+plugins:
+  - awesome-nav
