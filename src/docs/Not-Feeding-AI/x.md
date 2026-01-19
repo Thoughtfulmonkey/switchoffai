@@ -4,7 +4,7 @@ The social media site that the Financial Times referred to as ["the deepfake por
 
 ## Preventing others from editing your images
 
-Anyone with an X account can use AI to edit any other user's images. The feature was added on December 24, 2025, and partially restricted on January 9, 2026. For more information, refer to [No, Grok hasn’t paywalled its deepfake image feature](https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting). 
+Anyone with an X account can use AI to edit any other user's images. The feature was added on December 24, 2025. 
 
 * To prevent other users from being able to edit your images with AI, save them in the gif format before you upload them. Most image editors are able to save images as gifs, such as Microsoft Paint. Typically, you select **File** > **Save as**, and then choose the gif image format.
 
