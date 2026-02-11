@@ -16,6 +16,27 @@ The sidebar provides shortcuts to things like bookmarks and your browsing histor
 
 Other AI features are available, but they're currently turned off by default.
 
+## Using uBlock Origin in Firefox
+
+uBlock Origin is a Firefox plugin that blocks content from specific domains. It's most common use is to block adverts, but you can also block content from known sources of AI.
+
+1. Open Firefox.
+2. Select the puzzle/jigsaw piece in the upper-right corner of the window.
+3. In the **Find more add-ons** field, enter `ublock`, and then press **Enter**.
+4. From the list of search results, select **uBlock Origin**.
+5. On the **Extentions** page, select **Add to Firefox**.
+6. In the permission panel, select **Add**.
+7. **Optional**: In the confirmation panel, leave the **Pin extension to toolbar** checkbox selected.
+8. Select **OK**.
+
+The next step is to install the AI blocklist.
+
+1. Go to the [uBlockOrigin-HUGE-AI-Blocklist GitHub page](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist).
+2. Select the link in the **One-click import (any platform)** section.
+3. Select **Subscribe**.
+
+The uBlockOrigin-HUGE-AI-Blocklist GitHub page also includes instructions to manually install the list, if the one-click import doesn't work.
+
 ## Firefox without AI
 
 Because Firefox is open source software, people can create their own, altered versions. One of these versions is [Waterfox](https://www.waterfox.com/). In a recent blog post, it was announced that [Waterfox would not include the majority of Firefox's AI features](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/), and never include large language models (LLMs). If you want a browser that has a similar browsing experience to Firefox, and many of the same features, but without AI, you could try Waterfox.

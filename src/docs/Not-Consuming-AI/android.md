@@ -2,7 +2,7 @@
 
 The operating system used on many phones and tablets.
 
-There's a wide variety of device configurations and customised versions of Android. So, unfortunately, the instructions on this page aren't guarenteed to work for your device.
+There's a wide variety of device configurations and customised versions of Android. So, unfortunately, the instructions on this page aren't guaranteed to work for your device.
 
 ## Turning off the virtual assistant shortcut
 
