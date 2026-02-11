@@ -16,4 +16,4 @@ If you have moderate technical abilities and strong motivation, you can block a 
 
 To use Pi-hole you'll need a computer that's always turned on, or at minimum a computer that's turned on whenever you want to use your internet connection. This includes connecting to the Wi-Fi on your phone or smart TV. As the name suggests, Pi-hole was originally intended to be installed on a Raspberry Pi device.
 
-If you don't want to go through the difficulty of setting up Pi-hole, you can still use the AI blocklist. For example, see
+If you don't want to go through the difficulty of setting up Pi-hole, you can still use the AI blocklist. For example, see [Using uBlock Origin in Firefox](./firefox.md#using-ublock-origin-in-firefox).
