@@ -12,9 +12,14 @@ The sidebar provides shortcuts to things like bookmarks and your browsing histor
 2. In the **Customize sidebar** panel, turn off the **AI chatbot** checkbox.
 3. Close the **Customize sidebar** panel.
 
-## Other AI features
+## Blocking AI enhancements
 
-Other AI features are available, but they're currently turned off by default.
+To block all AI enhancements, complete the following steps:
+
+1. Open Firefox.
+2. In the address bar, enter `about:preferences#ai`.
+3. On the **AI Controls** page, turn on the **Block AI enhancements** setting.
+4. In the **Block AI enhancements?** confirmation panel, select **Block**.
 
 ## Using uBlock Origin in Firefox
 
