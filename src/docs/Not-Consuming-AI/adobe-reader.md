@@ -13,4 +13,4 @@ To turn off generative AI features, complete the following steps:
 3. From the **Categories** list, select **Generative AI**.
 4. On the **Generative AI features in Acrobat** page, clear the **Enable generative AI features in ** checkbox.
 5. Select **OK**.
-6. Close andd reopen Adobe Acrobat Reader. 
+6. Close and reopen Adobe Acrobat Reader. 
