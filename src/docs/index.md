@@ -1,12 +1,10 @@
 # Switch off AI
 
-If you don't want to use AI, you should be able to switch it off.
-
-Over the past few years, many technology companies have added artificial intelligence (AI) features to their products, and they're very keen for you to use them. But if you don't want to use them, you might find instructions on this site that show you how to switch them off.
+If you don't want to use AI, you should be able to switch it off. To learn how, select a product or service from the side menu. If you can't see the menu, select the <i class="fa fa-bars"></i> icon in the upper left corner.
 
 This site can't cover every product or service available, or keep up with the current rate at which AI features are being added. If you're looking for something that isn't listed here, don't give up. You can search somewhere else or contact the product or service's support.
 
-If want to switch off AI in a product or service and it won't let you, your choice is then whether or not to continue using that product or service. There are always alternatives. Just check that the alternative provides more end user choice before you make the switch.
+If want to switch off AI in a product or service and it won't let you, your choice is then whether or not to continue using it. There are always alternatives. Just check that the alternative provides more end user choice before you make the switch.
 
 * [Open Source Alternatives To Proprietary Software](https://opensourcealternative.to/)
 * [AlternativeTo](https://alternativeto.net/)
