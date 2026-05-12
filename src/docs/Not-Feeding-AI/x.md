@@ -24,7 +24,7 @@ To ask X not to share your data with other companies, or use it to train their A
 
 ## Leaving X
 
-The safest way to protect your data, although with no guarentees, is to close your X account. 
+The safest way to protect your data, although with no guarantees, is to close your X account. 
 
 ### Downloading your data
 
@@ -39,7 +39,7 @@ Complete the following steps to download your posts, uploaded media, and other d
 4. In the **Your Account** panel, select **Download an archive of your data**.
 5. In the **Verify your password** panel, enter your password, and then select **Next**.
 6. In the **X data** section, select **Request data**.
-7. When you receive an email that says your archive is ready, select the link or complete steps 1 to 6 to return to the archvie page. The email is likely to take over 24 hours to arrive. 
+7. When you receive an email that says your archive is ready, select the link or complete steps 1 to 6 to return to the archive page. The email is likely to take over 24 hours to arrive. 
 8. Select **Download archive**.
 9. Your data might be divided into separate downloads. Select **Download archive** for each one.
 

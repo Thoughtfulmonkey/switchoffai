@@ -29,7 +29,7 @@ uBlock Origin is a Firefox plugin that blocks content from specific domains. It'
 2. Select the puzzle/jigsaw piece in the upper-right corner of the window.
 3. In the **Find more add-ons** field, enter `ublock`, and then press **Enter**.
 4. From the list of search results, select **uBlock Origin**.
-5. On the **Extentions** page, select **Add to Firefox**.
+5. On the **Extensions** page, select **Add to Firefox**.
 6. In the permission panel, select **Add**.
 7. **Optional**: In the confirmation panel, leave the **Pin extension to toolbar** checkbox selected.
 8. Select **OK**.
