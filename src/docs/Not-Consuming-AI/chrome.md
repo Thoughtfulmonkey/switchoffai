@@ -2,7 +2,7 @@
 
 The web browser from Google.
 
-## Changing your search engine
+## Changing your search engine on Windows or MacOS
 
 Most search engines show AI-generated summaries by default. Complete the following steps to choose a search engine that doesn't:
 
@@ -22,7 +22,13 @@ Now, whenever you use the address bar to search, the browser will use your non-A
 
 If you don't set the new search engine as your default, you can use your shortcut to access the site search. In the address bar, enter the shortcut that you chose, press the Tab key, and then enter your search query.
 
-## Turning off the local AI model
+## Turning off AI search results on Android
+
+The easiest way to turn off the AI search results is to follow the instructions on [https://tenbluelinks.org/](https://tenbluelinks.org/).
+
+After you visit the site in the Chrome app, a new search engine will be listed in the app's settings. It applies the same UDM parameter that's used for Windows or MacOS in the previous section. 
+
+## Turning off the local AI model on Windows or MacOS
 
 In May 2026, it was widely reported that Google was installing a local AI model on people's computers, without their knowledge. Use the following instructions to remove the file and block it from being reinstalled.
 

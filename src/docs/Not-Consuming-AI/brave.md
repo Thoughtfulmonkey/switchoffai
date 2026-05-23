@@ -7,7 +7,7 @@ The browser that aims to deliver an ad-free browser experience.
 By default, the Brave browser has an AI agent installed and turned on. To turn it off, complete the following steps:
 
 1. Open Brave.
-2. Go to [brave://settings/leo-ai](brave://settings/leo-ai).
+2. Copy `brave://settings/leo-ai)` and paste it into the address bar.
 3. Turn off all settings.
 4. Right click the Leo icon (two four-pointed stars) on the toolbar, and then select **Hide Leo AI icon**.
 
@@ -16,7 +16,7 @@ By default, the Brave browser has an AI agent installed and turned on. To turn i
 Brave includes many individual settings related to AI. To turn them off, complete the following steps:
 
 1. Open Brave.
-2. Go to [brave://flags/](brave://flags/).
+2. Copy `brave://flags/` and paste it into the address bar.
 3. Search for and select **Disabled** for all AI-related flags. Some AI flags that are enabled by default include the following:
     * Brave AI Chat
     * Brave AI Chat Rich Search Widgets
