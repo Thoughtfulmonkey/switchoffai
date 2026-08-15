@@ -1,6 +1,6 @@
 # Brave
 
-The browser that aims to deliver an ad-free browser experience.
+A browser that includes an ad blocker and VPN.
 
 ## Turning off Leo
 
